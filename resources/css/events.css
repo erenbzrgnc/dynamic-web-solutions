@@ -1,0 +1,30 @@
+html {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: relative;
+    display: block;
+    background-color: #fff;
+    color: #555;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden !important;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.outer-div{
+    width: 90% !important;
+    margin: 5% 5% 5% 5%;
+}
+
+.event-table{
+    width: 95%;
+    margin: 0 2.5% 0 2.5%;
+}
